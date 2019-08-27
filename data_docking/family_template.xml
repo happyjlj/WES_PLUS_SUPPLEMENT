@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf8'?>
+<data>
+  <coreReport>
+    <item>
+      <mut_gene>&lt;font size='7'&gt;COMP&lt;/font&gt;</mut_gene>
+      <mut_type>&lt;font size='8'&gt;splicing&lt;/font&gt;</mut_type>
+      <mut_position>&lt;font size='8'&gt;chr19:18897106-18897106&lt;/font&gt;</mut_position>
+      <transcript_code>&lt;font size='8'&gt;NM_000095.2&lt;/font&gt;</transcript_code>
+      <exon_code>&lt;font size='8'&gt;exon12&lt;/font&gt;</exon_code>
+      <nucleotide_chagne>&lt;font size='8'&gt;c.1255-5C&gt;T&lt;/font&gt;</nucleotide_chagne>
+      <acid_change>&lt;font size='8'&gt;.&lt;/font&gt;</acid_change>
+      <hom_het>&lt;font size='8'&gt;het&lt;/font&gt;</hom_het>
+      <normal_frequency>&lt;font size='8'&gt;0.0042&lt;/font&gt;</normal_frequency>
+      <relate_disease>&lt;font size='8'&gt;epiphyseal dysplasia, multiple, 1（多发性骨骺发育不良1）&lt;/font&gt;</relate_disease>
+      <inherit_mode>&lt;font size='8'&gt;AD&lt;/font&gt;</inherit_mode>
+      <mut_evaluate>&lt;font size='8'&gt;Likely pathogenic&lt;/font&gt;</mut_evaluate>
+      <mut_origin>&lt;font size='8'&gt;Maternal Inheritance&lt;/font&gt;</mut_origin>
+    </item>
+    <item>
+      <mut_gene>&lt;font size='7'&gt;FGFR3&lt;/font&gt;</mut_gene>
+      <mut_type>&lt;font size='8'&gt;nonsynonymous SNV&lt;/font&gt;</mut_type>
+      <mut_position>&lt;font size='8'&gt;chr4:1807371-1807371&lt;/font&gt;</mut_position>
+      <transcript_code>&lt;font size='8'&gt;NM_000142.4&lt;/font&gt;</transcript_code>
+      <exon_code>&lt;font size='8'&gt;exon12&lt;/font&gt;</exon_code>
+      <nucleotide_chagne>&lt;font size='8'&gt;c.1620C&gt;G&lt;/font&gt;</nucleotide_chagne>
+      <acid_change>&lt;font size='8'&gt;p.N540K&lt;/font&gt;</acid_change>
+      <hom_het>&lt;font size='8'&gt;het&lt;/font&gt;</hom_het>
+      <normal_frequency>.</normal_frequency>
+      <relate_disease>&lt;font size='8'&gt;achondroplasia（软骨发育不良）&lt;/font&gt;</relate_disease>
+      <inherit_mode>&lt;font size='8'&gt;AD&lt;/font&gt;</inherit_mode>
+      <mut_evaluate>&lt;font size='8'&gt;Pathogenic&lt;/font&gt;</mut_evaluate>
+      <mut_origin>&lt;font size='8'&gt;Maternal Inheritance&lt;/font&gt;</mut_origin>
+    </item>
+    <item>
+      <mut_gene>&lt;font size='7'&gt;TRPV4&lt;/font&gt;</mut_gene>
+      <mut_type>&lt;font size='8'&gt;nonsynonymous SNV&lt;/font&gt;</mut_type>
+      <mut_position>&lt;font size='8'&gt;chr12:110221473-110221473&lt;/font&gt;</mut_position>
+      <transcript_code>&lt;font size='8'&gt;NM_021625.4&lt;/font&gt;</transcript_code>
+      <exon_code>&lt;font size='8'&gt;exon16&lt;/font&gt;</exon_code>
+      <nucleotide_chagne>&lt;font size='8'&gt;c.2569C&gt;A&lt;/font&gt;</nucleotide_chagne>
+      <acid_change>&lt;font size='8'&gt;p.Q857K&lt;/font&gt;</acid_change>
+      <hom_het>&lt;font size='8'&gt;het&lt;/font&gt;</hom_het>
+      <normal_frequency>&lt;font size='8'&gt;0.0002&lt;/font&gt;</normal_frequency>
+      <relate_disease>&lt;font size='8'&gt;parastremmatic dwarfism（类扭伤侏儒症）&lt;/font&gt;</relate_disease>
+      <inherit_mode>&lt;font size='8'&gt;AD&lt;/font&gt;</inherit_mode>
+      <mut_evaluate>&lt;font size='8'&gt;VUS&lt;/font&gt;</mut_evaluate>
+      <mut_origin>&lt;font size='8'&gt;Maternal Inheritance&lt;/font&gt;</mut_origin>
+    </item>
+    <item>
+      <mut_gene>&lt;font size='7'&gt;FLNA&lt;/font&gt;</mut_gene>
+      <mut_type>&lt;font size='8'&gt;nonsynonymous SNV&lt;/font&gt;</mut_type>
+      <mut_position>&lt;font size='8'&gt;chrX:153594726-153594726&lt;/font&gt;</mut_position>
+      <transcript_code>&lt;font size='8'&gt;NM_001110556.1&lt;/font&gt;</transcript_code>
+      <exon_code>&lt;font size='8'&gt;exon8&lt;/font&gt;</exon_code>
+      <nucleotide_chagne>&lt;font size='8'&gt;c.1178C&gt;T&lt;/font&gt;</nucleotide_chagne>
+      <acid_change>&lt;font size='8'&gt;p.P393L&lt;/font&gt;</acid_change>
+      <hom_het>&lt;font size='8'&gt;hemizygote&lt;/font&gt;</hom_het>
+      <normal_frequency>.</normal_frequency>
+      <relate_disease>&lt;font size='8'&gt;Otopalatodigital syndrome, type I（耳腭指征I型）&lt;/font&gt;</relate_disease>
+      <inherit_mode>&lt;font size='8'&gt;XLD&lt;/font&gt;</inherit_mode>
+      <mut_evaluate>&lt;font size='8'&gt;VUS&lt;/font&gt;</mut_evaluate>
+      <mut_origin>&lt;font size='8'&gt;Maternal Inheritance&lt;/font&gt;</mut_origin>
+    </item>
+  </coreReport>
+  <conclusion_summary>
+    <paragraph>本次检测使用贝瑞和康自主研发的Verita Trekker®变异位点检测系统和Enliven®变异位点注释解读系统，在COMP基因上检测到1个疑似致病的突变位点；在FGFR3基因上检测到1个致病突变位点；在TRPV4基因上检测到1个意义未明的突变位点；在FLNA基因上检测到1个意义未明的突变位点；Briggs et al., 1995等文献报道明确指出COMP基因突变可引起疾病epiphyseal dysplasia, multiple, 1（多发性骨骺发育不良1）；Bellus et al., 1995等文献报道明确指出FGFR3基因突变可引起疾病achondroplasia（软骨发育不良）；Nishimura et al. (2010)等文献报道明确指出TRPV4基因突变可引起疾病parastremmatic dwarfism（类扭伤侏儒症）；Verloes et al. (2000)等文献报道明确指出FLNA基因突变可引起疾病Otopalatodigital syndrome, type I（耳腭指征I型）。详情如下：</paragraph>
+    <paragraph>根据美国医学遗传学与基因组学学会(ACMG)指南(Richards et al., 2015)，提示基因COMP的c.1255-5C&gt;T突变为一个疑似致病突变位点。具体证据为：该突变在贝瑞和康中国人群特有数据库“神州基因组数据库”、人类外显子数据库（ExAC）、参考人群千人基因组（1000G）和人群基因组突变频率数据库（gnomAD）中的频率分别为0.00194856、0.0042、0.0089和0.0047。经公共数据库查询，基因COMP（OMIM：600310）的突变会导致常染色体显性遗传疾病epiphyseal dysplasia, multiple, 1（多发性骨骺发育不良1）（OMIM：132400），该疾病主要表现为:骨骺发育不良，骨骺骨化延迟，不规则骨骺，小骨骺，周身关节松弛，短指畸形综合征，短肢，手指的短指骨，股骨颈短，短掌骨，不相称的短肢矮小，卵形椎体，髋骨异常，椎体终板不规则。疾病特征与本案例表型相符。</paragraph>
+    <paragraph>根据美国医学遗传学与基因组学学会(ACMG)指南(Richards et al., 2015)，提示基因FGFR3的c.1620C&gt;G突变为一个致病突变位点。具体证据为：该突变发生在Protein kinase domain功能结构域；该突变在贝瑞和康中国人群特有数据库“神州基因组数据库”、人类外显子数据库（ExAC）、参考人群千人基因组（1000G）和人群基因组突变频率数据库（gnomAD）中没有发现；经CADD和DANN等对其进行保守性预测，结果显示该位点进化上保守，具有潜在的功能影响；经SIFT和Polyphen等对其进行蛋白功能预测，结果显示为有害。HGMD数据库将该位点评为DM(M Mustafa et al., 2014)。经公共数据库查询，基因FGFR3（OMIM：134934）的突变会导致常染色体显性疾病achondroplasia（软骨发育不良）（OMIM：100800），该疾病主要表现为:脑积水，短指畸形综合征，股骨颈短，周身关节松弛，膝内翻，反复发作型中耳炎，干骺端异常，新生儿短肢型矮小，肢体短缩，肢体发育不全，关节过度活动，骨骼发育不良，喇叭状干骺端，髋关节伸展受限，脊柱前凸过度，椎体形态异常，椎管狭窄。疾病特征与本案例表型相符。</paragraph>
+    <paragraph>根据美国医学遗传学与基因组学学会(ACMG)指南(Richards et al., 2015)，提示基因TRPV4的c.2569C&gt;A突变为一个意义未明突变位点。具体证据为：该突变在参考人群千人基因组（1000G）中没有发现，在贝瑞和康中国人群特有数据库“神州基因组数据库”、人类外显子数据库（ExAC）和人群基因组突变频率数据库（gnomAD）中的频率分别为0.00073046、0.0002和0.0002。经公共数据库查询，基因TRPV4（OMIM：605427）的突变会导致常染色体显性遗传疾病parastremmatic dwarfism（类扭伤侏儒症）（OMIM：168400），该疾病主要表现为:脊柱后凸畸形（驼背），干骺端异常，肋骨异常，	短指畸形综合征，短颈，膝外翻，短趾，关节活动受限，步态不稳，屈曲挛缩，盆骨形态异常，膝内翻，骨密度降低，严重的身材矮小，骨骺异常，下肢不对称，脊柱侧弯，椎体骨化异常，骨小梁粗糙。疾病特征与本案例表型相符。</paragraph>
+    <paragraph>根据美国医学遗传学与基因组学学会(ACMG)指南(Richards et al., 2015)，提示基因FLNA的c.1178C&gt;T突变为一个意义未明突变位点。具体证据为：该突变发生在Immunoglobulin E-set功能结构域；该突变在贝瑞和康中国人群特有数据库“神州基因组数据库”、人类外显子数据库（ExAC）、参考人群千人基因组（1000G）和人群基因组突变频率数据库（gnomAD）中没有发现；经GERP等对其进行保守性预测，结果显示该位点进化上保守，具有潜在的功能影响；经SIFT和FATHMM等对其进行蛋白功能预测，结果显示为有害。经公共数据库查询，基因FLNA（OMIM：300017）的突变会导致伴X染色体显性遗传疾病Otopalatodigital syndrome, type I（耳腭指征I型）（OMIM：311300），该疾病主要表现为:伸肘受限，传导性听力障碍，短指畸形综合征，关节活动受限，漏斗胸，轻度智力残疾，趾间畸形，脚趾并趾畸形，髋外翻，髋关节脱位，前囟闭合延迟，短鼻，桡骨小头脱位，长骨弯曲，股外侧弯曲，第五跖骨异常，身材矮小，第3短掌骨，第5掌骨短小，短拇趾，骨密度增加。疾病特征与本案例表型相符。</paragraph>
+    <paragraph>一代测序验证结果显示:先证者和母亲在基因COMP上发生c.1255-5C&gt;T杂合突变，在基因FLNA上发生c.1178C&gt;T纯合突变，在基因FGFR3上发生c.1620C&gt;G杂合突变，在基因TRPV4上发生c.2569C&gt;A杂合突变，父亲均未突变，突变均来自母亲。</paragraph>
+    <paragraph>以上结果请结合家系和临床进一步分析。</paragraph>
+  </conclusion_summary>
+  <conclusion>
+    <paragraph>测试一下下</paragraph>
+  </conclusion>
+  <refArticle>
+    <article>Richards S, Aziz N, Bale S, et al. Standards and Guidelines for the Interpretation of Sequence Variants: A Joint Consensus Recommendation of the American College of Medical Genetics and Genomics and the Association for Molecular Pathology[J]. Genetics in Medicine Official Journal of the American College of Medical Genetics, 2015, 17(5):405.</article>
+    <article>Kalia S S, Adelman K, Bale S J, et al. Recommendations for reporting of secondary findings in clinical exome and genome sequencing, 2016 update (ACMG SF v2.0): a policy statement of the American College of Medical Genetics and Genomics[J]. Genetics in Medicine Official Journal of the American College of Medical Genetics, 2017, 19(2):249.</article>
+    <article>M.D. Briggs, Hoffman S M G, King L M, et al. Pseudoachondroplasia and multiple epiphyseal dysplasia due to mutations in the cartilage oligomeric matrix protein gene[J]. Nature Genetics, 1995, 10(3):330-6.</article>
+    <article>GA Bellus, TW Hefferon, RI de Luna Ortiz, et al. Achondroplasia is defined by recurrent G380R mutations of FGFR3.[J]. American Journal of Human Genetics, 1995, 56(2):368-373.</article>
+    <article>Nishimura G, Dai J, Lausch E, et al. Spondylo-Epiphyseal Dysplasia, Maroteaux Type (Pseudo-Morquio Syndrome Type 2), and Parastremmatic Dysplasia are Caused by TRPV4 Mutations[J]. American Journal of Medical Genetics Part A, 2010, 152A(6):1443-1449.</article>
+    <article>Verloes A, Lesenfants S, Barr M, et al. Fronto-otopalatodigital osteodysplasia: clinical evidence for a single entity encompassing Melnick-Needles syndrome, otopalatodigital syndrome types 1 and 2, and frontometaphyseal dysplasia[J]. American Journal of Medical Genetics, 2000, 90(5):407–422.</article>
+    <article>Mustafa M, Moghrabi N, Binabbas B. Hypochondroplasia, Acanthosis Nigricans, and Insulin Resistance in a Child with FGFR3 Mutation: Is It Just an Association?[J]. Case Reports in Endocrinology,2014,(2014-11-18), 2014, 2014(8):840492.</article>
+    <article> Kearney H M, Thorland E C, Brown K K, et al. American College of Medical Genetics standards and guidelines for interpretation and reporting of postnatal constitutional copy number variants[J]. Genetics in Medicine Official Journal of the American College of Medical Genetics, 2011, 13(7):680-5.</article>
+  </refArticle>
+  <verifyResult>
+    <result>
+      <verify_site>COMP:NM_000339.2:exon17:c.1255-5C&gt;T:p.S710X</verify_site>
+      <pic_name>/share/work1/lishanshan/wes/proj/xinhua/7E5905-7E5906-7E5907/SLC12A3.chr16.56920956.png</pic_name>
+    </result>
+  </verifyResult>
+</data>

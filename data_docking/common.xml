@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf8'?>
+<data>
+  <coreReport>
+    <item>
+      <mut_gene>&lt;font size='7'&gt;NA&lt;/font&gt;</mut_gene>
+      <mut_type>&lt;font size='8'&gt;NA&lt;/font&gt;</mut_type>
+      <mut_position>&lt;font size='8'&gt;NA&lt;/font&gt;</mut_position>
+      <transcript_code>&lt;font size='8'&gt;NA&lt;/font&gt;</transcript_code>
+      <exon_code>&lt;font size='8'&gt;NA&lt;/font&gt;</exon_code>
+      <nucleotide_chagne>&lt;font size='8'&gt;NA&lt;/font&gt;</nucleotide_chagne>
+      <acid_change>&lt;font size='8'&gt;NA&lt;/font&gt;</acid_change>
+      <hom_het>&lt;font size='8'&gt;NA&lt;/font&gt;</hom_het>
+      <normal_frequency>&lt;font size='8'&gt;NA&lt;/font&gt;</normal_frequency>
+      <relate_disease>NA</relate_disease>
+      <inherit_mode>&lt;font size='8'&gt;NA&lt;/font&gt;</inherit_mode>
+      <mut_evaluate>&lt;font size='8'&gt;NA&lt;/font&gt;</mut_evaluate>
+      <mut_origin>&lt;font size='8'&gt;NA&lt;/font&gt;</mut_origin>
+    </item>
+  </coreReport>
+  <conclusion_summary>
+    <paragraph>本次检测使用贝瑞和康自主研发的Verita Trekker®变异位点检测系统和Enliven®变异位点注释解读系统，在该样本中未发现表型相关的致病性SNP、InDel，发现表型相关的致病性CNV。详情如下：</paragraph>
+    <paragraph>根据美国医学遗传学与基因组学学会(ACMG)指南(Richards et al., 2015)，在该样本中未发现致病性SNP、InDel突变。检索HPO、OMIM、GHR等公共数据库查找与肉碱代谢的异常、乙酰肉碱、肉碱、体重减轻、身材矮小等表型或疾病相关基因，未能在热点基因上找到可能的致病突变。</paragraph>
+    <paragraph>对该样本进行全外显子CNV检测，在15号染色体15q11.2、15q12、15q13.1区域发现一4.76Mb的缺失，该CNV会导致疾病Angelman syndrome和Prader-Willi syndrome。Angelman syndrome(Angelman 综合征)主要表现为：发育迟缓，严重智力发育迟滞，语言发育迟缓，共济失调，四肢震颤，肌张力低下，癫痫发作，阵发性的笑声，新生儿喂养困难，皮肤色素减退，斜视，屈光不正（散光，远视），平衡障碍；Prader-Willi syndrome（Prader-Willi综合征）主要表现为：身材矮小，婴儿期发育停滞，长头畸形，斜视，远视，近视，睑裂上斜，上唇薄，龋齿，缺氧，低促性腺激素性性腺功能减退症，小阴茎，阴囊发育不全，隐睾，小阴唇发育不良，阴蒂发育不良，骨质疏松症，骨质减少，脊柱侧凸，小手，小脚，皮肤色素减退，轻度至中度智力低下（90%），学习障碍，肌张力减退，癫痫发作，全面发育迟缓。</paragraph>
+    <paragraph>检索 Decipher数据库发现1例（chr20:54937542-59055727）缺失会导致出生身长小于第三个百分位数，成比例身材矮小，小于胎龄 [Decipher:276271]；1例（chr20:55801532-57881280）缺失会导致先天性眼球震颤，骨骼延迟，生长激素缺乏，肌张力减退，成比 例身材矮小，斜视[Decipher:250209]；1例(chr20:56608719-58308392)缺失会导致语言发育迟缓，智力残疾，小头畸形，身材矮小 [Decipher:250318]；1例（chr20:58511914-58966567）缺失会导致认知障碍[Decipher:301490]。</paragraph>
+    <paragraph>以上结果请结合家系和临床进一步分析。</paragraph>
+  </conclusion_summary>
+  <conclusion>
+    <paragraph>该样本未检测到致病性SNP、InDel变异，检测到致病性拷贝数变异(CNVs)。</paragraph>
+  </conclusion>
+  <refArticle>
+    <article>Richards S, Aziz N, Bale S, et al. Standards and Guidelines for the Interpretation of Sequence Variants: A Joint Consensus Recommendation of the American College of Medical Genetics and Genomics and the Association for Molecular Pathology[J]. Genetics in Medicine Official Journal of the American College of Medical Genetics, 2015, 17(5):405.</article>
+    <article>Kalia S S, Adelman K, Bale S J, et al. Recommendations for reporting of secondary findings in clinical exome and genome sequencing, 2016 update (ACMG SF v2.0): a policy statement of the American College of Medical Genetics and Genomics[J]. Genetics in Medicine Official Journal of the American College of Medical Genetics, 2017, 19(2):249.</article>
+    <article> Kearney H M, Thorland E C, Brown K K, et al. American College of Medical Genetics standards and guidelines for interpretation and reporting of postnatal constitutional copy number variants[J]. Genetics in Medicine Official Journal of the American College of Medical Genetics, 2011, 13(7):680-5.</article>
+  </refArticle>
+  <verifyResult />
+</data>
